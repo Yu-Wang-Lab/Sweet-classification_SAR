@@ -6,4 +6,4 @@ To maintain the most representive features for model development and avoid poten
 
 The software has been installed on the solo computer in the chemical lab. Feature selections are conducted within the software.
 
-Files exported from AlvaDesc are stored as original DB, FS_DB
+
