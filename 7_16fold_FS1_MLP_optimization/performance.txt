@@ -1,0 +1,2 @@
+Method, Accuracy, Sensitivity, Specificity, AUC, Precision, Negative Predictive Value, F1 Score, MCC 
+mlp:, 79.73 ± 5.54, 85.67 ± 4.91, 63.24 ± 14.07, 83.12 ± 7.17, 86.84 ± 5.07, 61.55 ± 9.80, 86.14 ± 3.84,  48.60 ± 14.39 
